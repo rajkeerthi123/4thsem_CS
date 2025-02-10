@@ -1,1 +1,1 @@
-subject name java
+subject java
